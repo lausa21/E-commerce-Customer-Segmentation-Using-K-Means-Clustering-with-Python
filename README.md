@@ -15,3 +15,8 @@ By identifying these customer segments, the company can move away from a one-siz
     * The Elbow Method for optimal K
     * Fine-Tuning (Silhouette Score & Inertia)
     * Customer Segmentation
+      
+---
+
+### 🖋 Author
+Laurel Evelina Widjaja
